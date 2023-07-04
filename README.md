@@ -12,3 +12,5 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - HTML5
 - CSS
 - JavaScript
+
+[Você pode conferir o projeto clicando aqui.](https://vr-player-simulator.vercel.app/)
